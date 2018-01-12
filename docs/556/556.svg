@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g1_556{
+fill: #FFFFFF;
+}
+.g2_556{
+}
+]]></style>
+</defs>
+<path d="M165,1149.3l687.5,0l0,-21.2l-687.5,0l0,21.2Z" class="g1_556" />
+<path d="M68.8,1149.3l82.5,0l0,-21.2l-82.5,0l0,21.2Z" class="g1_556" />
+<path d="M68.6,419.7l0.7,0l0,-294l-0.7,0l0,294Z" class="g2_556" />
+<path d="M306.2,420.6l0.7,0l0,-295.7l-0.7,0l0,295.7Z" class="g2_556" />
+<path d="M363.9,420.6l0.8,0l0,-295.7l-0.8,0l0,295.7Z" class="g2_556" />
+<path d="M438.4,420.6l0.8,0l0,-295.7l-0.8,0l0,295.7Z" class="g2_556" />
+<path d="M517.2,420.6l0.7,0l0,-295.7l-0.7,0l0,295.7Z" class="g2_556" />
+<path d="M849.7,419.7l0.7,0l0,-294l-0.7,0l0,294Z" class="g2_556" />
+<path d="M68.6,125.7l781.8,0l0,-0.8l-781.8,0l0,0.8Z" class="g2_556" />
+<path d="M68.6,176.1l781.8,0l0,-0.7l-781.8,0l0,0.7Z" class="g2_556" />
+<path d="M68.6,246.3l781.8,0l0,-0.7l-781.8,0l0,0.7Z" class="g2_556" />
+<path d="M68.6,333.4l781.8,0l0,-0.7l-781.8,0l0,0.7Z" class="g2_556" />
+<path d="M68.6,420.6l781.8,0l0,-0.8l-781.8,0l0,0.8Z" class="g2_556" />
+<path d="M70.5,572.6l0.7,0l0,-97l-0.7,0l0,97Z" class="g2_556" />
+<path d="M188.2,573.3l0.7,0l0,-98.6l-0.7,0l0,98.6Z" class="g2_556" />
+<path d="M350.4,573.3l0.7,0l0,-98.6l-0.7,0l0,98.6Z" class="g2_556" />
+<path d="M516.8,573.3l0.8,0l0,-98.6l-0.8,0l0,98.6Z" class="g2_556" />
+<path d="M686.5,573.3l0.7,0l0,-98.6l-0.7,0l0,98.6Z" class="g2_556" />
+<path d="M849.8,572.6l0.8,0l0,-97l-0.8,0l0,97Z" class="g2_556" />
+<path d="M70.5,475.6l780.2,0l0,-0.8l-780.2,0l0,0.8Z" class="g2_556" />
+<path d="M70.5,499.9l780.2,0l0,-0.7l-780.2,0l0,0.7Z" class="g2_556" />
+<path d="M70.5,524.4l780.2,0l0,-0.7l-780.2,0l0,0.7Z" class="g2_556" />
+<path d="M70.5,548.9l780.2,0l0,-0.7l-780.2,0l0,0.7Z" class="g2_556" />
+<path d="M70.5,573.3l780.2,0l0,-0.7l-780.2,0l0,0.7Z" class="g2_556" />
+</svg>

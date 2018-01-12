@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_146"><path d="M171.2,378l0,-251.2l578.7,0l0,251.2Z" /></clipPath>
+<style type="text/css"><![CDATA[
+.g1_146{
+fill: #FFFFFF;
+}
+.g2_146{
+fill: none;
+stroke: #000000;
+stroke-width: 1.0999999;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g3_146{
+fill: none;
+stroke: #000000;
+stroke-width: 0.36666667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g4_146{
+fill: #CECECE;
+}
+.g5_146{
+}
+]]></style>
+</defs>
+<path d="M165,1149.3l687.5,0l0,-21.2l-687.5,0l0,21.2Z" class="g1_146" />
+<path d="M68.8,1149.3l82.5,0l0,-21.2l-82.5,0l0,21.2Z" class="g1_146" />
+<g clip-path="url(#c0_146)">
+<path d="M198.7,378.1l551.2,0l0,-212.4l-551.2,0l0,212.4Z" class="g1_146" />
+</g>
+<path d="M199.8,359.4l550.1,0l0,-192.5l-550.1,0l0,192.5Z" class="g1_146" />
+<path d="M199.8,166.9l550.1,0l0,192.5l-550.1,0l0,-192.5Z" class="g2_146" />
+<path d="M220.5,247.7l220,0l0,-41.3l-220,0l0,41.3Z" class="g1_146" />
+<path d="M220.5,206.4l220,0l0,41.3l-220,0l0,-41.3Z" class="g3_146" />
+<path d="M220.5,321.6l220,0l0,-41.3l-220,0l0,41.3Z" class="g4_146" />
+<path d="M220.5,280.3l220,0l0,41.3l-220,0l0,-41.3Z" class="g3_146" />
+<path d="M440.5,321.6l220,0l0,-41.3l-220,0l0,41.3Z" class="g4_146" />
+<path d="M440.5,280.3l220,0l0,41.3l-220,0l0,-41.3Z" class="g3_146" />
+<path d="M440.5,247.7l220,0l0,-41.3l-220,0l0,41.3Z" class="g1_146" />
+<path d="M440.5,206.4l220,0l0,41.3l-220,0l0,-41.3Z" class="g3_146" />
+<path d="M330.5,272.4l0,-24.7" class="g3_146" />
+<path fill-rule="evenodd" d="M334.7,271.9l-4.2,8.4l-4.2,-8.4l8.4,0Z" class="g5_146" />
+<path d="M550.5,272.4l0,-24.7" class="g3_146" />
+<path fill-rule="evenodd" d="M554.7,271.9l-4.2,8.4l-4.2,-8.4l8.4,0Z" class="g5_146" />
+</svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g1_1916{
+fill: #FFFFFF;
+}
+.g2_1916{
+}
+]]></style>
+</defs>
+<path d="M165,1149.3l687.5,0l0,-21.2l-687.5,0l0,21.2Z" class="g1_1916" />
+<path d="M68.8,1149.3l82.5,0l0,-21.2l-82.5,0l0,21.2Z" class="g1_1916" />
+<path d="M70.3,404.5l0.7,0L71,125.7l-0.7,0l0,278.8Z" class="g2_1916" />
+<path d="M374,405.3l0.7,0l0,-280.4l-0.7,0l0,280.4Z" class="g2_1916" />
+<path d="M411.9,405.3l0.7,0l0,-280.4l-0.7,0l0,280.4Z" class="g2_1916" />
+<path d="M485.3,405.3l0.7,0l0,-280.4l-0.7,0l0,280.4Z" class="g2_1916" />
+<path d="M556.6,405.3l0.7,0l0,-280.4l-0.7,0l0,280.4Z" class="g2_1916" />
+<path d="M850,404.5l0.8,0l0,-278.8l-0.8,0l0,278.8Z" class="g2_1916" />
+<path d="M70.3,125.7l780.5,0l0,-0.8l-780.5,0l0,0.8Z" class="g2_1916" />
+<path d="M70.3,179.1l780.5,0l0,-0.7l-780.5,0l0,0.7Z" class="g2_1916" />
+<path d="M70.3,235.7l780.5,0l0,-0.8l-780.5,0l0,0.8Z" class="g2_1916" />
+<path d="M70.3,292.1l780.5,0l0,-0.7l-780.5,0l0,0.7Z" class="g2_1916" />
+<path d="M70.3,348.7l780.5,0l0,-0.7L70.3,348l0,0.7Z" class="g2_1916" />
+<path d="M70.3,405.3l780.5,0l0,-0.8l-780.5,0l0,0.8Z" class="g2_1916" />
+<path d="M69.1,508.4l0.8,0l0,-48.1l-0.8,0l0,48.1Z" class="g2_1916" />
+<path d="M137.6,509.1l0.7,0l0,-49.6l-0.7,0l0,49.6Z" class="g2_1916" />
+<path d="M318,509.1l0.7,0l0,-49.6l-0.7,0l0,49.6Z" class="g2_1916" />
+<path d="M496.8,509.1l0.8,0l0,-49.6l-0.8,0l0,49.6Z" class="g2_1916" />
+<path d="M672.7,509.1l0.7,0l0,-49.6l-0.7,0l0,49.6Z" class="g2_1916" />
+<path d="M851.3,508.4l0.7,0l0,-48.1l-0.7,0l0,48.1Z" class="g2_1916" />
+<path d="M69.1,460.3l782.9,0l0,-0.8l-782.9,0l0,0.8Z" class="g2_1916" />
+<path d="M69.1,484.7l782.9,0l0,-0.7L69.1,484l0,0.7Z" class="g2_1916" />
+<path d="M69.1,509.1l782.9,0l0,-0.7l-782.9,0l0,0.7Z" class="g2_1916" />
+</svg>

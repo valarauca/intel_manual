@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g1_248{
+fill: #FFFFFF;
+}
+.g2_248{
+}
+]]></style>
+</defs>
+<path d="M165,1149.3l687.5,0l0,-21.2l-687.5,0l0,21.2Z" class="g1_248" />
+<path d="M68.8,1149.3l82.5,0l0,-21.2l-82.5,0l0,21.2Z" class="g1_248" />
+<path d="M68.9,1064.9l0,-0.7Z" class="g2_248" />
+<path d="M68.9,1064.9l220.4,0l0,-0.7l-220.4,0l0,0.7Z" class="g2_248" />
+<path d="M68.6,224.2l0.7,0l0,-89.4l-0.7,0l0,89.4Z" class="g2_248" />
+<path d="M253.6,224.9l0.7,0l0,-90.8l-0.7,0l0,90.8Z" class="g2_248" />
+<path d="M294.8,224.9l0.7,0l0,-90.8l-0.7,0l0,90.8Z" class="g2_248" />
+<path d="M375.1,224.9l0.7,0l0,-90.8l-0.7,0l0,90.8Z" class="g2_248" />
+<path d="M476.3,224.9l0.7,0l0,-90.8l-0.7,0l0,90.8Z" class="g2_248" />
+<path d="M840.4,224.2l0.7,0l0,-89.4l-0.7,0l0,89.4Z" class="g2_248" />
+<path d="M68.6,134.8l772.5,0l0,-0.7l-772.5,0l0,0.7Z" class="g2_248" />
+<path d="M68.6,188.3l772.5,0l0,-0.7l-772.5,0l0,0.7Z" class="g2_248" />
+<path d="M68.6,224.9l772.5,0l0,-0.7l-772.5,0l0,0.7Z" class="g2_248" />
+<path d="M70.2,325.1l0.8,0l0,-48.2l-0.8,0l0,48.2Z" class="g2_248" />
+<path d="M850.1,325.1l0.7,0l0,-48.2l-0.7,0l0,48.2Z" class="g2_248" />
+<path d="M70.2,276.9l780.7,0l0,-0.7l-780.7,0l0,0.7Z" class="g2_248" />
+<path d="M70.2,301.3l780.7,0l0,-0.7l-780.7,0l0,0.7Z" class="g2_248" />
+<path d="M70.2,325.8l780.7,0l0,-0.7l-780.7,0l0,0.7Z" class="g2_248" />
+</svg>

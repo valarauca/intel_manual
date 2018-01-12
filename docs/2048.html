@@ -1,0 +1,371 @@
+<!DOCTYPE html >
+<html lang="en">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta charset="utf-8" />
+</head>
+
+<body style="margin: 0;">
+
+<div id="p2048" style="overflow: hidden; position: relative; width: 935px; height: 1210px;">
+
+<!-- Begin shared CSS values -->
+<style class="shared-css" type="text/css" >
+.t {
+	-webkit-transform-origin: top left;
+	-moz-transform-origin: top left;
+	-o-transform-origin: top left;
+	-ms-transform-origin: top left;
+	-webkit-transform: scale(0.25);
+	-moz-transform: scale(0.25);
+	-o-transform: scale(0.25);
+	-ms-transform: scale(0.25);
+	z-index: 2;
+	position: absolute;
+	white-space: pre;
+	overflow: visible;
+}
+</style>
+<!-- End shared CSS values -->
+
+
+<!-- Begin inline CSS -->
+<style type="text/css" >
+
+#t1_2048{left:69px;top:1124px;}
+#t2_2048{left:104px;top:1124px;letter-spacing:0.1px;}
+#t3_2048{left:69px;top:49px;letter-spacing:-0.2px;word-spacing:0.3px;}
+#t4_2048{left:69px;top:103px;letter-spacing:-0.1px;word-spacing:-3.9px;}
+#t5_2048{left:69px;top:118px;word-spacing:-1.7px;}
+#t6_2048{left:69px;top:675px;}
+#t7_2048{left:154px;top:675px;word-spacing:0.1px;}
+#t8_2048{left:69px;top:703px;letter-spacing:-0.1px;word-spacing:-3.2px;}
+#t9_2048{left:69px;top:718px;word-spacing:-1.9px;}
+#ta_2048{left:69px;top:733px;}
+#tb_2048{left:212px;top:148px;letter-spacing:-0.3px;word-spacing:0.7px;}
+#tc_2048{left:297px;top:148px;letter-spacing:0.1px;}
+#td_2048{left:151px;top:173px;}
+#te_2048{left:246px;top:173px;}
+#tf_2048{left:338px;top:173px;}
+#tg_2048{left:430px;top:173px;}
+#th_2048{left:522px;top:173px;}
+#ti_2048{left:614px;top:173px;}
+#tj_2048{left:708px;top:173px;}
+#tk_2048{left:803px;top:173px;}
+#tl_2048{left:82px;top:196px;}
+#tm_2048{left:459px;top:196px;}
+#tn_2048{left:139px;top:219px;}
+#to_2048{left:234px;top:219px;}
+#tp_2048{left:326px;top:219px;}
+#tq_2048{left:418px;top:219px;}
+#tr_2048{left:510px;top:219px;}
+#ts_2048{left:602px;top:219px;letter-spacing:0.1px;}
+#tt_2048{left:696px;top:219px;letter-spacing:0.1px;}
+#tu_2048{left:791px;top:219px;}
+#tv_2048{left:82px;top:242px;}
+#tw_2048{left:468px;top:242px;}
+#tx_2048{left:139px;top:265px;}
+#ty_2048{left:234px;top:265px;}
+#tz_2048{left:326px;top:265px;}
+#t10_2048{left:418px;top:265px;}
+#t11_2048{left:510px;top:265px;}
+#t12_2048{left:602px;top:265px;letter-spacing:0.1px;}
+#t13_2048{left:696px;top:265px;letter-spacing:0.1px;}
+#t14_2048{left:791px;top:265px;}
+#t15_2048{left:83px;top:288px;}
+#t16_2048{left:457px;top:288px;letter-spacing:0.1px;}
+#t17_2048{left:122px;top:311px;}
+#t18_2048{left:217px;top:311px;}
+#t19_2048{left:309px;top:311px;}
+#t1a_2048{left:401px;top:311px;}
+#t1b_2048{left:493px;top:311px;}
+#t1c_2048{left:585px;top:311px;}
+#t1d_2048{left:679px;top:311px;}
+#t1e_2048{left:774px;top:311px;}
+#t1f_2048{left:83px;top:334px;}
+#t1g_2048{left:151px;top:402px;}
+#t1h_2048{left:246px;top:402px;}
+#t1i_2048{left:337px;top:402px;}
+#t1j_2048{left:429px;top:402px;}
+#t1k_2048{left:521px;top:402px;}
+#t1l_2048{left:613px;top:402px;}
+#t1m_2048{left:707px;top:402px;}
+#t1n_2048{left:803px;top:402px;}
+#t1o_2048{left:82px;top:425px;}
+#t1p_2048{left:82px;top:471px;}
+#t1q_2048{left:464px;top:471px;letter-spacing:0.1px;}
+#t1r_2048{left:139px;top:494px;}
+#t1s_2048{left:234px;top:494px;}
+#t1t_2048{left:326px;top:494px;}
+#t1u_2048{left:418px;top:494px;}
+#t1v_2048{left:510px;top:494px;}
+#t1w_2048{left:602px;top:494px;letter-spacing:0.1px;}
+#t1x_2048{left:696px;top:494px;letter-spacing:0.1px;}
+#t1y_2048{left:791px;top:494px;}
+#t1z_2048{left:83px;top:517px;}
+#t20_2048{left:453px;top:517px;}
+#t21_2048{left:139px;top:540px;}
+#t22_2048{left:234px;top:540px;}
+#t23_2048{left:326px;top:540px;}
+#t24_2048{left:418px;top:540px;}
+#t25_2048{left:510px;top:540px;}
+#t26_2048{left:602px;top:540px;letter-spacing:0.1px;}
+#t27_2048{left:696px;top:540px;letter-spacing:0.1px;}
+#t28_2048{left:791px;top:540px;}
+#t29_2048{left:83px;top:563px;}
+#t2a_2048{left:70px;top:609px;letter-spacing:-0.4px;}
+#t2b_2048{left:73px;top:627px;}
+#t2c_2048{left:91px;top:628px;}
+#t2d_2048{left:216px;top:763px;letter-spacing:-0.2px;word-spacing:0.3px;}
+#t2e_2048{left:301px;top:763px;letter-spacing:0.1px;}
+#t2f_2048{left:389px;top:788px;}
+#t2g_2048{left:103px;top:811px;}
+#t2h_2048{left:201px;top:811px;}
+#t2i_2048{left:299px;top:811px;}
+#t2j_2048{left:397px;top:811px;letter-spacing:-1.2px;}
+#t2k_2048{left:495px;top:811px;letter-spacing:0.1px;}
+#t2l_2048{left:592px;top:811px;}
+#t2m_2048{left:691px;top:811px;letter-spacing:-1.2px;}
+#t2n_2048{left:789px;top:811px;letter-spacing:-2.3px;}
+#t2o_2048{left:99px;top:834px;}
+#t2p_2048{left:84px;top:849px;}
+#t2q_2048{left:197px;top:834px;}
+#t2r_2048{left:181px;top:849px;}
+#t2s_2048{left:293px;top:834px;letter-spacing:0.1px;}
+#t2t_2048{left:279px;top:849px;}
+#t2u_2048{left:387px;top:834px;letter-spacing:0.1px;}
+#t2v_2048{left:377px;top:849px;}
+#t2w_2048{left:491px;top:834px;}
+#t2x_2048{left:475px;top:849px;}
+#t2y_2048{left:584px;top:834px;}
+#t2z_2048{left:573px;top:849px;}
+#t30_2048{left:689px;top:834px;}
+#t31_2048{left:671px;top:849px;}
+#t32_2048{left:782px;top:834px;}
+#t33_2048{left:768px;top:849px;}
+#t34_2048{left:70px;top:872px;letter-spacing:-0.4px;}
+#t35_2048{left:73px;top:890px;}
+#t36_2048{left:91px;top:892px;}
+
+.s1_2048{
+	FONT-SIZE: 48.8px;
+	FONT-FAMILY: NeoSansIntel_2koi;
+	color: rgb(0,0,0);
+}
+
+.s2_2048{
+	FONT-SIZE: 55px;
+	FONT-FAMILY: NeoSansIntel_2koi;
+	color: rgb(8,96,168);
+}
+
+.s3_2048{
+	FONT-SIZE: 48.8px;
+	FONT-FAMILY: Verdana_9zn;
+	color: rgb(0,0,0);
+}
+
+.s4_2048{
+	FONT-SIZE: 67.1px;
+	FONT-FAMILY: NeoSansIntelMedium_2kog;
+	color: rgb(8,96,168);
+}
+
+.s5_2048{
+	FONT-SIZE: 60.9px;
+	FONT-FAMILY: NeoSansIntelMedium_2kog;
+	color: rgb(8,96,168);
+}
+
+.s6_2048{
+	FONT-SIZE: 48.8px;
+	FONT-FAMILY: Arial_9zu;
+	color: rgb(0,0,0);
+}
+
+.s7_2048{
+	FONT-SIZE: 48.8px;
+	FONT-FAMILY: NeoSansIntelMedium_2kog;
+	color: rgb(8,96,168);
+}
+
+.s8_2048{
+	FONT-SIZE: 55.3px;
+	FONT-FAMILY: Arial_9zu;
+	color: rgb(0,0,0);
+}
+
+#form1_2048{	z-index: 2;	cursor: pointer;	border-style: none;	padding: 0px;	position: absolute;	left: 162px;	top: 703px;	width: 29px;	height: 15px;	text-align: left;	background: transparent;	font: normal 12px Arial, Helvetica, sans-serif;}
+#form2_2048{	z-index: 2;	cursor: pointer;	border-style: none;	padding: 0px;	position: absolute;	left: 69px;	top: 103px;	width: 64px;	height: 15px;	text-align: left;	background: transparent;	font: normal 12px Arial, Helvetica, sans-serif;}
+#form3_2048{	z-index: 2;	cursor: pointer;	border-style: none;	padding: 0px;	position: absolute;	left: 643px;	top: 703px;	width: 64px;	height: 15px;	text-align: left;	background: transparent;	font: normal 12px Arial, Helvetica, sans-serif;}
+#form4_2048{	z-index: 2;	cursor: pointer;	border-style: none;	padding: 0px;	position: absolute;	left: 663px;	top: 718px;	width: 64px;	height: 15px;	text-align: left;	background: transparent;	font: normal 12px Arial, Helvetica, sans-serif;}
+#form5_2048{	z-index: 2;	cursor: pointer;	border-style: none;	padding: 0px;	position: absolute;	left: 69px;	top: 703px;	width: 64px;	height: 15px;	text-align: left;	background: transparent;	font: normal 12px Arial, Helvetica, sans-serif;}
+
+</style>
+<!-- End inline CSS -->
+
+<!-- Begin embedded font definitions -->
+<style id="fonts2048" type="text/css" >
+
+@font-face {
+	font-family: Verdana_9zn;
+	src: url("fonts/Verdana_9zn.woff") format("woff");
+}
+
+@font-face {
+	font-family: NeoSansIntelMedium_2kog;
+	src: url("fonts/NeoSansIntelMedium_2kog.woff") format("woff");
+}
+
+@font-face {
+	font-family: Arial_9zu;
+	src: url("fonts/Arial_9zu.woff") format("woff");
+}
+
+@font-face {
+	font-family: NeoSansIntel_2koi;
+	src: url("fonts/NeoSansIntel_2koi.woff") format("woff");
+}
+
+</style>
+<!-- End embedded font definitions -->
+
+<!-- Begin page background -->
+<div id="pg2048Overlay" style="width:100%; height:100%; position:absolute; z-index:1; background-color:rgba(0,0,0,0); -webkit-user-select: none;"></div>
+<div id="pg2048" style="-webkit-user-select: none;"><object width="935" height="1210" data="2048/2048.svg" type="image/svg+xml" id="pdf2048" style="width:935px; height:1210px; background-color:white; -moz-transform:scale(1); z-index: 0;"></object></div>
+<!-- End page background -->
+
+
+<!-- Begin text definitions (Positioned/styled in CSS) -->
+<div id="t1_2048" class="t s1_2048">A-26</div>
+<div id="t2_2048" class="t s1_2048">Vol. 2D</div>
+<div id="t3_2048" class="t s2_2048">OPCODE MAP</div>
+<div id="t4_2048" class="t s3_2048">Table A-18 shows the map if the ModR/M byte is outside the range of 00H-BFH. The first digit of the ModR/M byte selects the table </div>
+<div id="t5_2048" class="t s3_2048">row and the second digit selects the column.</div>
+<div id="t6_2048" class="t s4_2048">A.5.2.7 </div>
+<div id="t7_2048" class="t s4_2048">Escape Opcodes with DE as First Byte</div>
+<div id="t8_2048" class="t s3_2048">Table A-19 and A-20 contain opcode maps for escape instruction opcodes that begin with DEH. Table A-19 shows the opcode map </div>
+<div id="t9_2048" class="t s3_2048">if the ModR/M byte is in the range of 00H-BFH. In this case, the value of bits 3-5 (the nnn field in Figure A-1) selects the instruc-</div>
+<div id="ta_2048" class="t s3_2048">tion.</div>
+<div id="tb_2048" class="t s5_2048">Table A-18. </div>
+<div id="tc_2048" class="t s5_2048">DD Opcode Map When ModR/M Byte is Outside 00H to BFH *</div>
+<div id="td_2048" class="t s6_2048">0</div>
+<div id="te_2048" class="t s6_2048">1</div>
+<div id="tf_2048" class="t s6_2048">2</div>
+<div id="tg_2048" class="t s6_2048">3</div>
+<div id="th_2048" class="t s6_2048">4</div>
+<div id="ti_2048" class="t s6_2048">5</div>
+<div id="tj_2048" class="t s6_2048">6</div>
+<div id="tk_2048" class="t s6_2048">7</div>
+<div id="tl_2048" class="t s6_2048">C</div>
+<div id="tm_2048" class="t s6_2048">FFREE</div>
+<div id="tn_2048" class="t s6_2048">ST(0)</div>
+<div id="to_2048" class="t s6_2048">ST(1)</div>
+<div id="tp_2048" class="t s6_2048">ST(2)</div>
+<div id="tq_2048" class="t s6_2048">ST(3)</div>
+<div id="tr_2048" class="t s6_2048">ST(4)</div>
+<div id="ts_2048" class="t s6_2048">ST(5)</div>
+<div id="tt_2048" class="t s6_2048">ST(6)</div>
+<div id="tu_2048" class="t s6_2048">ST(7)</div>
+<div id="tv_2048" class="t s6_2048">D</div>
+<div id="tw_2048" class="t s6_2048">FST</div>
+<div id="tx_2048" class="t s6_2048">ST(0)</div>
+<div id="ty_2048" class="t s6_2048">ST(1)</div>
+<div id="tz_2048" class="t s6_2048">ST(2)</div>
+<div id="t10_2048" class="t s6_2048">ST(3)</div>
+<div id="t11_2048" class="t s6_2048">ST(4)</div>
+<div id="t12_2048" class="t s6_2048">ST(5)</div>
+<div id="t13_2048" class="t s6_2048">ST(6)</div>
+<div id="t14_2048" class="t s6_2048">ST(7)</div>
+<div id="t15_2048" class="t s6_2048">E</div>
+<div id="t16_2048" class="t s6_2048">FUCOM</div>
+<div id="t17_2048" class="t s6_2048">ST(0),ST(0)</div>
+<div id="t18_2048" class="t s6_2048">ST(1),ST(0)</div>
+<div id="t19_2048" class="t s6_2048">ST(2),ST(0)</div>
+<div id="t1a_2048" class="t s6_2048">ST(3),ST(0)</div>
+<div id="t1b_2048" class="t s6_2048">ST(4),ST(0)</div>
+<div id="t1c_2048" class="t s6_2048">ST(5),ST(0)</div>
+<div id="t1d_2048" class="t s6_2048">ST(6),ST(0)</div>
+<div id="t1e_2048" class="t s6_2048">ST(7),ST(0)</div>
+<div id="t1f_2048" class="t s6_2048">F</div>
+<div id="t1g_2048" class="t s6_2048">8</div>
+<div id="t1h_2048" class="t s6_2048">9</div>
+<div id="t1i_2048" class="t s6_2048">A</div>
+<div id="t1j_2048" class="t s6_2048">B</div>
+<div id="t1k_2048" class="t s6_2048">C</div>
+<div id="t1l_2048" class="t s6_2048">D</div>
+<div id="t1m_2048" class="t s6_2048">E</div>
+<div id="t1n_2048" class="t s6_2048">F</div>
+<div id="t1o_2048" class="t s6_2048">C</div>
+<div id="t1p_2048" class="t s6_2048">D</div>
+<div id="t1q_2048" class="t s6_2048">FSTP</div>
+<div id="t1r_2048" class="t s6_2048">ST(0)</div>
+<div id="t1s_2048" class="t s6_2048">ST(1)</div>
+<div id="t1t_2048" class="t s6_2048">ST(2)</div>
+<div id="t1u_2048" class="t s6_2048">ST(3)</div>
+<div id="t1v_2048" class="t s6_2048">ST(4)</div>
+<div id="t1w_2048" class="t s6_2048">ST(5)</div>
+<div id="t1x_2048" class="t s6_2048">ST(6)</div>
+<div id="t1y_2048" class="t s6_2048">ST(7)</div>
+<div id="t1z_2048" class="t s6_2048">E</div>
+<div id="t20_2048" class="t s6_2048">FUCOMP</div>
+<div id="t21_2048" class="t s6_2048">ST(0)</div>
+<div id="t22_2048" class="t s6_2048">ST(1)</div>
+<div id="t23_2048" class="t s6_2048">ST(2)</div>
+<div id="t24_2048" class="t s6_2048">ST(3)</div>
+<div id="t25_2048" class="t s6_2048">ST(4)</div>
+<div id="t26_2048" class="t s6_2048">ST(5)</div>
+<div id="t27_2048" class="t s6_2048">ST(6)</div>
+<div id="t28_2048" class="t s6_2048">ST(7)</div>
+<div id="t29_2048" class="t s6_2048">F</div>
+<div id="t2a_2048" class="t s7_2048">NOTES:</div>
+<div id="t2b_2048" class="t s8_2048">*</div>
+<div id="t2c_2048" class="t s6_2048">All blanks in all opcode maps are reserved and must not be used. Do not depend on the operation of undefined or reserved locations.</div>
+<div id="t2d_2048" class="t s5_2048">Table A-19. </div>
+<div id="t2e_2048" class="t s5_2048">DE Opcode Map When ModR/M Byte is Within 00H to BFH *</div>
+<div id="t2f_2048" class="t s6_2048">nnn Field of ModR/M Byte </div>
+<div id="t2g_2048" class="t s6_2048">000B</div>
+<div id="t2h_2048" class="t s6_2048">001B</div>
+<div id="t2i_2048" class="t s6_2048">010B</div>
+<div id="t2j_2048" class="t s6_2048">011B</div>
+<div id="t2k_2048" class="t s6_2048">100B</div>
+<div id="t2l_2048" class="t s6_2048">101B</div>
+<div id="t2m_2048" class="t s6_2048">110B</div>
+<div id="t2n_2048" class="t s6_2048">111B</div>
+<div id="t2o_2048" class="t s6_2048">FIADD </div>
+<div id="t2p_2048" class="t s6_2048">word-integer</div>
+<div id="t2q_2048" class="t s6_2048">FIMUL </div>
+<div id="t2r_2048" class="t s6_2048">word-integer</div>
+<div id="t2s_2048" class="t s6_2048">FICOM </div>
+<div id="t2t_2048" class="t s6_2048">word-integer</div>
+<div id="t2u_2048" class="t s6_2048">FICOMP </div>
+<div id="t2v_2048" class="t s6_2048">word-integer</div>
+<div id="t2w_2048" class="t s6_2048">FISUB </div>
+<div id="t2x_2048" class="t s6_2048">word-integer</div>
+<div id="t2y_2048" class="t s6_2048">FISUBR </div>
+<div id="t2z_2048" class="t s6_2048">word-integer</div>
+<div id="t30_2048" class="t s6_2048">FIDIV </div>
+<div id="t31_2048" class="t s6_2048">word-integer</div>
+<div id="t32_2048" class="t s6_2048">FIDIVR </div>
+<div id="t33_2048" class="t s6_2048">word-integer</div>
+<div id="t34_2048" class="t s7_2048">NOTES:</div>
+<div id="t35_2048" class="t s8_2048">*</div>
+<div id="t36_2048" class="t s6_2048">All blanks in all opcode maps are reserved and must not be used. Do not depend on the operation of undefined or reserved locations.</div>
+
+<!-- End text definitions -->
+
+
+<!-- Begin Form Data -->
+<form>
+<input id="form1_2048" type="button" tabindex="2819" data-objref="12759 0 R" onclick="IDRViewer.goToPage(2049);" data-action-type="GoTo" data-page="2049" data-zoom="XYZ 70 1061 null" title="Page 2049"/>
+<input id="form2_2048" type="button" tabindex="2818" data-objref="12758 0 R" onclick="IDRViewer.goToPage(2048);" data-action-type="GoTo" data-page="2048" data-zoom="XYZ 68 1061 null" title="Page 2048"/>
+<input id="form3_2048" type="button" tabindex="2820" data-objref="12760 0 R" onclick="IDRViewer.goToPage(2048);" data-action-type="GoTo" data-page="2048" data-zoom="XYZ 68 447 null" title="Page 2048"/>
+<input id="form4_2048" type="button" tabindex="2821" data-objref="12761 0 R" onclick="IDRViewer.goToPage(2039);" data-action-type="GoTo" data-page="2039" data-zoom="XYZ 70 982 null" title="Page 2039"/>
+<input id="form5_2048" type="button" tabindex="2817" data-objref="12757 0 R" onclick="IDRViewer.goToPage(2048);" data-action-type="GoTo" data-page="2048" data-zoom="XYZ 68 447 null" title="Page 2048"/>
+
+</form>
+<!-- End Form Data -->
+
+</div>
+</body>
+</html>

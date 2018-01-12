@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g1_1623{
+fill: #FFFFFF;
+}
+.g2_1623{
+}
+]]></style>
+</defs>
+<path d="M68.9,1149.3l686.3,0l0,-21.2l-686.3,0l0,21.2Z" class="g1_1623" />
+<path d="M771.3,1149.3l83.7,0l0,-21.2l-83.7,0l0,21.2Z" class="g1_1623" />
+<path d="M69.9,410.6l0.8,0L70.7,147l-0.8,0l0,263.6Z" class="g2_1623" />
+<path d="M299.4,411.4l0.7,0l0,-265.1l-0.7,0l0,265.1Z" class="g2_1623" />
+<path d="M342.7,411.4l0.8,0l0,-265.1l-0.8,0l0,265.1Z" class="g2_1623" />
+<path d="M417.2,411.4l0.7,0l0,-265.1l-0.7,0l0,265.1Z" class="g2_1623" />
+<path d="M508.2,411.4l0.7,0l0,-265.1l-0.7,0l0,265.1Z" class="g2_1623" />
+<path d="M853.6,410.6l0.7,0l0,-263.6l-0.7,0l0,263.6Z" class="g2_1623" />
+<path d="M69.9,147l784.4,0l0,-0.7l-784.4,0l0,0.7Z" class="g2_1623" />
+<path d="M69.9,197.4l784.4,0l0,-0.7l-784.4,0l0,0.7Z" class="g2_1623" />
+<path d="M69.9,250.9l784.4,0l0,-0.7l-784.4,0l0,0.7Z" class="g2_1623" />
+<path d="M69.9,304.4l784.4,0l0,-0.7l-784.4,0l0,0.7Z" class="g2_1623" />
+<path d="M69.9,357.9l784.4,0l0,-0.8l-784.4,0l0,0.8Z" class="g2_1623" />
+<path d="M69.9,411.4l784.4,0l0,-0.7l-784.4,0l0,0.7Z" class="g2_1623" />
+<path d="M70.9,540.5l0.8,0l0,-64.9l-0.8,0l0,64.9Z" class="g2_1623" />
+<path d="M152.2,541.2l0.7,0l0,-66.5l-0.7,0l0,66.5Z" class="g2_1623" />
+<path d="M317.1,541.2l0.7,0l0,-66.5l-0.7,0l0,66.5Z" class="g2_1623" />
+<path d="M489.3,541.2l0.8,0l0,-66.5l-0.8,0l0,66.5Z" class="g2_1623" />
+<path d="M669.1,541.2l0.7,0l0,-66.5l-0.7,0l0,66.5Z" class="g2_1623" />
+<path d="M851,540.5l0.8,0l0,-64.9l-0.8,0l0,64.9Z" class="g2_1623" />
+<path d="M70.9,475.6l780.9,0l0,-0.8l-780.9,0l0,0.8Z" class="g2_1623" />
+<path d="M70.9,499.9l780.9,0l0,-0.7l-780.9,0l0,0.7Z" class="g2_1623" />
+<path d="M70.9,541.2l780.9,0l0,-0.7l-780.9,0l0,0.7Z" class="g2_1623" />
+</svg>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g1_85{
+fill: #FFFFFF;
+}
+.g2_85{
+}
+]]></style>
+</defs>
+<path d="M68.9,1149.3l783.8,0l0,-21.2l-783.8,0l0,21.2Z" class="g1_85" />
+<path d="M73.3,884.2l0.8,0L74.1,202l-0.8,0l0,682.2Z" class="g2_85" />
+<path d="M213,885l0.8,0l0,-683.7l-0.8,0L213,885Z" class="g2_85" />
+<path d="M249.6,885l0.7,0l0,-683.7l-0.7,0l0,683.7Z" class="g2_85" />
+<path d="M291.7,885l0.7,0l0,-683.7l-0.7,0l0,683.7Z" class="g2_85" />
+<path d="M331,885l0.7,0l0,-683.7l-0.7,0L331,885Z" class="g2_85" />
+<path d="M366.5,885l0.7,0l0,-683.7l-0.7,0l0,683.7Z" class="g2_85" />
+<path d="M848.6,884.2l0.8,0l0,-682.2l-0.8,0l0,682.2Z" class="g2_85" />
+<path d="M73.2,202l776.3,0l0,-0.7l-776.3,0l0,0.7Z" class="g2_85" />
+<path d="M73.2,305.9l776.3,0l0,-0.7l-776.3,0l0,0.7Z" class="g2_85" />
+<path d="M213,330.4l636.5,0l0,-0.8l-636.5,0l0,0.8Z" class="g2_85" />
+<path d="M213,354.8l636.5,0l0,-0.7l-636.5,0l0,0.7Z" class="g2_85" />
+<path d="M213,474l636.5,0l0,-0.7l-636.5,0l0,0.7Z" class="g2_85" />
+<path d="M213,498.5l636.5,0l0,-0.8l-636.5,0l0,0.8Z" class="g2_85" />
+<path d="M213,522.9l636.5,0l0,-0.8l-636.5,0l0,0.8Z" class="g2_85" />
+<path d="M73.2,547.3l776.3,0l0,-0.7l-776.3,0l0,0.7Z" class="g2_85" />
+<path d="M73.2,588.6l776.3,0l0,-0.7l-776.3,0l0,0.7Z" class="g2_85" />
+<path d="M213,613.1l636.5,0l0,-0.8l-636.5,0l0,0.8Z" class="g2_85" />
+<path d="M73.2,654.3l776.3,0l0,-0.7l-776.3,0l0,0.7Z" class="g2_85" />
+<path d="M213,695.6l636.5,0l0,-0.8l-636.5,0l0,0.8Z" class="g2_85" />
+<path d="M213,719.9l636.5,0l0,-0.7l-636.5,0l0,0.7Z" class="g2_85" />
+<path d="M73.2,761.2l776.3,0l0,-0.7l-776.3,0l0,0.7Z" class="g2_85" />
+<path d="M73.2,802.4l776.3,0l0,-0.7l-776.3,0l0,0.7Z" class="g2_85" />
+<path d="M73.2,843.7l776.3,0l0,-0.7L73.2,843l0,0.7Z" class="g2_85" />
+<path d="M73.2,885l776.3,0l0,-0.8l-776.3,0l0,0.8Z" class="g2_85" />
+</svg>

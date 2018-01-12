@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g1_147{
+fill: #FFFFFF;
+}
+.g2_147{
+}
+]]></style>
+</defs>
+<path d="M68.9,1149.3l686.3,0l0,-21.2l-686.3,0l0,21.2Z" class="g1_147" />
+<path d="M771.3,1149.3l83.7,0l0,-21.2l-83.7,0l0,21.2Z" class="g1_147" />
+<path d="M70.3,335.8l0.7,0L71,125.7l-0.7,0l0,210.1Z" class="g2_147" />
+<path d="M391.9,336.5l0.7,0l0,-211.6l-0.7,0l0,211.6Z" class="g2_147" />
+<path d="M429.7,336.5l0.8,0l0,-211.6l-0.8,0l0,211.6Z" class="g2_147" />
+<path d="M503.1,336.5l0.7,0l0,-211.6l-0.7,0l0,211.6Z" class="g2_147" />
+<path d="M574.5,336.5l0.7,0l0,-211.6l-0.7,0l0,211.6Z" class="g2_147" />
+<path d="M851.7,335.8l0.7,0l0,-210.1l-0.7,0l0,210.1Z" class="g2_147" />
+<path d="M70.3,125.7l782.1,0l0,-0.8l-782.1,0l0,0.8Z" class="g2_147" />
+<path d="M70.3,179.1l782.1,0l0,-0.7l-782.1,0l0,0.7Z" class="g2_147" />
+<path d="M70.3,223.4l782.1,0l0,-0.7l-782.1,0l0,0.7Z" class="g2_147" />
+<path d="M70.3,279.9l782.1,0l0,-0.7l-782.1,0l0,0.7Z" class="g2_147" />
+<path d="M70.3,336.5l782.1,0l0,-0.7l-782.1,0l0,0.7Z" class="g2_147" />
+<path d="M70.5,464.1l0.7,0l0,-72.6l-0.7,0l0,72.6Z" class="g2_147" />
+<path d="M137.1,464.8l0.8,0l0,-74l-0.8,0l0,74Z" class="g2_147" />
+<path d="M314.4,464.8l0.8,0l0,-74l-0.8,0l0,74Z" class="g2_147" />
+<path d="M494.9,464.8l0.7,0l0,-74l-0.7,0l0,74Z" class="g2_147" />
+<path d="M668.8,464.8l0.7,0l0,-74l-0.7,0l0,74Z" class="g2_147" />
+<path d="M851.5,464.1l0.7,0l0,-72.6l-0.7,0l0,72.6Z" class="g2_147" />
+<path d="M70.5,391.5l781.8,0l0,-0.7l-781.8,0l0,0.7Z" class="g2_147" />
+<path d="M70.5,416l781.8,0l0,-0.7l-781.8,0l0,0.7Z" class="g2_147" />
+<path d="M70.5,440.4l781.8,0l0,-0.8l-781.8,0l0,0.8Z" class="g2_147" />
+<path d="M70.5,464.8l781.8,0l0,-0.7l-781.8,0l0,0.7Z" class="g2_147" />
+</svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g1_646{
+fill: #FFFFFF;
+}
+.g2_646{
+}
+]]></style>
+</defs>
+<path d="M165,1149.3l687.5,0l0,-21.2l-687.5,0l0,21.2Z" class="g1_646" />
+<path d="M68.8,1149.3l82.5,0l0,-21.2l-82.5,0l0,21.2Z" class="g1_646" />
+<path d="M68.9,231.8l0.8,0l0,-106.1l-0.8,0l0,106.1Z" class="g2_646" />
+<path d="M219.6,232.7l0.8,0l0,-107.8l-0.8,0l0,107.8Z" class="g2_646" />
+<path d="M390.5,232.7l0.7,0l0,-107.8l-0.7,0l0,107.8Z" class="g2_646" />
+<path d="M428.4,232.7l0.7,0l0,-107.8l-0.7,0l0,107.8Z" class="g2_646" />
+<path d="M501.8,232.7l0.7,0l0,-107.8l-0.7,0l0,107.8Z" class="g2_646" />
+<path d="M573.1,232.7l0.7,0l0,-107.8l-0.7,0l0,107.8Z" class="g2_646" />
+<path d="M851.4,231.8l0.7,0l0,-106.1l-0.7,0l0,106.1Z" class="g2_646" />
+<path d="M68.9,125.7l783.3,0l0,-0.8l-783.3,0l0,0.8Z" class="g2_646" />
+<path d="M68.9,163.8l783.3,0l0,-0.7l-783.3,0l0,0.7Z" class="g2_646" />
+<path d="M68.9,186.7l783.3,0l0,-0.7L68.9,186l0,0.7Z" class="g2_646" />
+<path d="M68.9,209.6l783.3,0l0,-0.7l-783.3,0l0,0.7Z" class="g2_646" />
+<path d="M68.9,232.6l783.3,0l0,-0.8l-783.3,0l0,0.8Z" class="g2_646" />
+<path d="M68.6,378.5l0.7,0l0,-48.1l-0.7,0l0,48.1Z" class="g2_646" />
+<path d="M141.5,379.3l0.8,0l0,-49.7l-0.8,0l0,49.7Z" class="g2_646" />
+<path d="M319.3,379.3l0.7,0l0,-49.7l-0.7,0l0,49.7Z" class="g2_646" />
+<path d="M506.7,379.3l0.8,0l0,-49.7l-0.8,0l0,49.7Z" class="g2_646" />
+<path d="M677.1,379.3l0.8,0l0,-49.7l-0.8,0l0,49.7Z" class="g2_646" />
+<path d="M851.9,378.5l0.7,0l0,-48.1l-0.7,0l0,48.1Z" class="g2_646" />
+<path d="M68.5,330.4l784.1,0l0,-0.8l-784.1,0l0,0.8Z" class="g2_646" />
+<path d="M68.5,354.8l784.1,0l0,-0.7l-784.1,0l0,0.7Z" class="g2_646" />
+<path d="M68.5,379.2l784.1,0l0,-0.7l-784.1,0l0,0.7Z" class="g2_646" />
+</svg>

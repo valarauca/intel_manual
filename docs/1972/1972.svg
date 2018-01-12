@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g1_1972{
+fill: #FFFFFF;
+}
+.g2_1972{
+}
+]]></style>
+</defs>
+<path d="M165,1149.3l687.5,0l0,-21.2l-687.5,0l0,21.2Z" class="g1_1972" />
+<path d="M68.8,1149.3l82.5,0l0,-21.2l-82.5,0l0,21.2Z" class="g1_1972" />
+<path d="M68.9,1048l0,-0.7Z" class="g2_1972" />
+<path d="M68.9,1048l220.4,0l0,-0.7l-220.4,0l0,0.7Z" class="g2_1972" />
+<path d="M68.9,267l0.8,0l0,-141.3l-0.8,0l0,141.3Z" class="g2_1972" />
+<path d="M381.3,267.8l0.8,0l0,-142.9l-0.8,0l0,142.9Z" class="g2_1972" />
+<path d="M419.2,267.8l0.7,0l0,-142.9l-0.7,0l0,142.9Z" class="g2_1972" />
+<path d="M492.6,267.8l0.8,0l0,-142.9l-0.8,0l0,142.9Z" class="g2_1972" />
+<path d="M566.2,267.8l0.8,0l0,-142.9l-0.8,0l0,142.9Z" class="g2_1972" />
+<path d="M851.4,267l0.7,0l0,-141.3l-0.7,0l0,141.3Z" class="g2_1972" />
+<path d="M68.9,125.7l783.3,0l0,-0.8l-783.3,0l0,0.8Z" class="g2_1972" />
+<path d="M68.9,179.1l783.3,0l0,-0.7l-783.3,0l0,0.7Z" class="g2_1972" />
+<path d="M68.9,223.4l783.3,0l0,-0.7l-783.3,0l0,0.7Z" class="g2_1972" />
+<path d="M68.9,267.8l783.3,0l0,-0.8L68.9,267l0,0.8Z" class="g2_1972" />
+<path d="M70.2,370.9l0.8,0l0,-48.1l-0.8,0l0,48.1Z" class="g2_1972" />
+<path d="M143.9,371.6l0.8,0l0,-49.6l-0.8,0l0,49.6Z" class="g2_1972" />
+<path d="M327.2,371.6l0.8,0L328,322l-0.8,0l0,49.6Z" class="g2_1972" />
+<path d="M498.8,371.6l0.7,0l0,-49.6l-0.7,0l0,49.6Z" class="g2_1972" />
+<path d="M674.2,371.6l0.7,0l0,-49.6l-0.7,0l0,49.6Z" class="g2_1972" />
+<path d="M850.1,370.9l0.7,0l0,-48.1l-0.7,0l0,48.1Z" class="g2_1972" />
+<path d="M70.2,322.8l780.7,0l0,-0.8L70.2,322l0,0.8Z" class="g2_1972" />
+<path d="M70.2,347.1l780.7,0l0,-0.7l-780.7,0l0,0.7Z" class="g2_1972" />
+<path d="M70.2,371.6l780.7,0l0,-0.7l-780.7,0l0,0.7Z" class="g2_1972" />
+</svg>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_376"><path d="M68.9,547.5l0,-29.6l784.4,0l0,29.6Z" /></clipPath>
+<style type="text/css"><![CDATA[
+.g1_376{
+fill: #FFFFFF;
+}
+.g2_376{
+}
+]]></style>
+</defs>
+<path d="M165,1149.3l687.5,0l0,-21.2l-687.5,0l0,21.2Z" class="g1_376" />
+<path d="M68.8,1149.3l82.5,0l0,-21.2l-82.5,0l0,21.2Z" class="g1_376" />
+<g clip-path="url(#c0_376)">
+<path d="M68.9,547.5l784.4,0l0,-29.6l-784.4,0l0,29.6Z" class="g1_376" />
+</g>
+<path d="M69.9,540.8l53.5,0l0,-12.3l-53.5,0l0,12.3Z" class="g1_376" />
+<path d="M68.6,517.6l0.7,0L69.3,147l-0.7,0l0,370.6Z" class="g2_376" />
+<path d="M316.2,518.3l0.7,0l0,-372l-0.7,0l0,372Z" class="g2_376" />
+<path d="M363.2,518.3l0.7,0l0,-372l-0.7,0l0,372Z" class="g2_376" />
+<path d="M437.6,518.3l0.8,0l0,-372l-0.8,0l0,372Z" class="g2_376" />
+<path d="M518.5,518.3l0.7,0l0,-372l-0.7,0l0,372Z" class="g2_376" />
+<path d="M853,517.6l0.7,0l0,-370.6l-0.7,0l0,370.6Z" class="g2_376" />
+<path d="M68.6,147l785.1,0l0,-0.7l-785.1,0l0,0.7Z" class="g2_376" />
+<path d="M68.6,197.4l785.1,0l0,-0.7l-785.1,0l0,0.7Z" class="g2_376" />
+<path d="M68.6,250.9l785.1,0l0,-0.7l-785.1,0l0,0.7Z" class="g2_376" />
+<path d="M68.6,304.4l785.1,0l0,-0.7l-785.1,0l0,0.7Z" class="g2_376" />
+<path d="M68.6,357.9l785.1,0l0,-0.8l-785.1,0l0,0.8Z" class="g2_376" />
+<path d="M68.6,411.4l785.1,0l0,-0.7l-785.1,0l0,0.7Z" class="g2_376" />
+<path d="M68.6,464.8l785.1,0l0,-0.7l-785.1,0l0,0.7Z" class="g2_376" />
+<path d="M68.6,518.3l785.1,0l0,-0.7l-785.1,0l0,0.7Z" class="g2_376" />
+<path d="M70.4,712.2l0.7,0l0,-72.6l-0.7,0l0,72.6Z" class="g2_376" />
+<path d="M165.8,712.9l0.8,0l0,-74.1l-0.8,0l0,74.1Z" class="g2_376" />
+<path d="M331.9,712.9l0.8,0l0,-74.1l-0.8,0l0,74.1Z" class="g2_376" />
+<path d="M497.9,712.9l0.8,0l0,-74.1l-0.8,0l0,74.1Z" class="g2_376" />
+<path d="M673.6,712.9l0.7,0l0,-74.1l-0.7,0l0,74.1Z" class="g2_376" />
+<path d="M850,712.2l0.8,0l0,-72.6l-0.8,0l0,72.6Z" class="g2_376" />
+<path d="M70.4,639.6l780.4,0l0,-0.8l-780.4,0l0,0.8Z" class="g2_376" />
+<path d="M70.4,664l780.4,0l0,-0.7l-780.4,0l0,0.7Z" class="g2_376" />
+<path d="M70.4,688.5l780.4,0l0,-0.7l-780.4,0l0,0.7Z" class="g2_376" />
+<path d="M70.4,712.9l780.4,0l0,-0.7l-780.4,0l0,0.7Z" class="g2_376" />
+</svg>

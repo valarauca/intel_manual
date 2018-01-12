@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g1_105{
+fill: #FFFFFF;
+}
+.g2_105{
+}
+]]></style>
+</defs>
+<path d="M68.9,1149.3l686.3,0l0,-21.2l-686.3,0l0,21.2Z" class="g1_105" />
+<path d="M771.3,1149.3l83.7,0l0,-21.2l-83.7,0l0,21.2Z" class="g1_105" />
+<path d="M70.2,352.6l0.8,0L71,131.8l-0.8,0l0,220.8Z" class="g2_105" />
+<path d="M133.9,353.3l0.8,0l0,-184.1l-0.8,0l0,184.1Z" class="g2_105" />
+<path d="M201.3,353.3l0.7,0l0,-184.1l-0.7,0l0,184.1Z" class="g2_105" />
+<path d="M252.7,353.3l0.8,0l0,-222.3l-0.8,0l0,222.3Z" class="g2_105" />
+<path d="M326.1,353.3l0.7,0l0,-184.1l-0.7,0l0,184.1Z" class="g2_105" />
+<path d="M392.9,353.3l0.7,0l0,-184.1l-0.7,0l0,184.1Z" class="g2_105" />
+<path d="M444.2,353.3l0.7,0l0,-222.3l-0.7,0l0,222.3Z" class="g2_105" />
+<path d="M516.3,353.3l0.7,0l0,-184.1l-0.7,0l0,184.1Z" class="g2_105" />
+<path d="M584.4,353.3l0.7,0l0,-184.1l-0.7,0l0,184.1Z" class="g2_105" />
+<path d="M651.2,353.3l0.7,0l0,-222.3l-0.7,0l0,222.3Z" class="g2_105" />
+<path d="M718.1,353.3l0.7,0l0,-184.1l-0.7,0l0,184.1Z" class="g2_105" />
+<path d="M784.9,353.3l0.8,0l0,-184.1l-0.8,0l0,184.1Z" class="g2_105" />
+<path d="M851.8,352.6l0.7,0l0,-220.8l-0.7,0l0,220.8Z" class="g2_105" />
+<path d="M70.2,131.7l782.3,0l0,-0.7L70.2,131l0,0.7Z" class="g2_105" />
+<path d="M70.2,169.9l782.3,0l0,-0.7l-782.3,0l0,0.7Z" class="g2_105" />
+<path d="M70.2,246.3l782.3,0l0,-0.7l-782.3,0l0,0.7Z" class="g2_105" />
+<path d="M70.2,267.8l782.3,0l0,-0.8L70.2,267l0,0.8Z" class="g2_105" />
+<path d="M70.2,289.1l782.3,0l0,-0.7l-782.3,0l0,0.7Z" class="g2_105" />
+<path d="M70.2,310.5l782.3,0l0,-0.8l-782.3,0l0,0.8Z" class="g2_105" />
+<path d="M70.2,331.9l782.3,0l0,-0.7l-782.3,0l0,0.7Z" class="g2_105" />
+<path d="M70.2,353.3l782.3,0l0,-0.7l-782.3,0l0,0.7Z" class="g2_105" />
+</svg>

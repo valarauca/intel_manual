@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g1_742{
+fill: #FFFFFF;
+}
+.g2_742{
+}
+]]></style>
+</defs>
+<path d="M165,1149.3l687.5,0l0,-21.2l-687.5,0l0,21.2Z" class="g1_742" />
+<path d="M68.8,1149.3l82.5,0l0,-21.2l-82.5,0l0,21.2Z" class="g1_742" />
+<path d="M68.9,1064.9l0,-0.7Z" class="g2_742" />
+<path d="M68.9,1064.9l220.4,0l0,-0.7l-220.4,0l0,0.7Z" class="g2_742" />
+<path d="M70.6,311.3l0.7,0l0,-185.6l-0.7,0l0,185.6Z" class="g2_742" />
+<path d="M347.7,312l0.7,0l0,-187.1l-0.7,0l0,187.1Z" class="g2_742" />
+<path d="M385.6,312l0.7,0l0,-187.1l-0.7,0l0,187.1Z" class="g2_742" />
+<path d="M458.9,312l0.7,0l0,-187.1l-0.7,0l0,187.1Z" class="g2_742" />
+<path d="M530.3,312l0.7,0l0,-187.1l-0.7,0l0,187.1Z" class="g2_742" />
+<path d="M849.8,311.3l0.8,0l0,-185.6l-0.8,0l0,185.6Z" class="g2_742" />
+<path d="M70.6,125.7l780,0l0,-0.8l-780,0l0,0.8Z" class="g2_742" />
+<path d="M70.6,179.1l780,0l0,-0.7l-780,0l0,0.7Z" class="g2_742" />
+<path d="M70.6,223.4l780,0l0,-0.7l-780,0l0,0.7Z" class="g2_742" />
+<path d="M70.6,267.8l780,0l0,-0.8l-780,0l0,0.8Z" class="g2_742" />
+<path d="M70.6,312l780,0l0,-0.7l-780,0l0,0.7Z" class="g2_742" />
+<path d="M69.7,415.2l0.7,0l0,-48.2l-0.7,0l0,48.2Z" class="g2_742" />
+<path d="M142.6,416l0.8,0l0,-49.7l-0.8,0l0,49.7Z" class="g2_742" />
+<path d="M313.9,416l0.7,0l0,-49.7l-0.7,0l0,49.7Z" class="g2_742" />
+<path d="M491.9,416l0.7,0l0,-49.7l-0.7,0l0,49.7Z" class="g2_742" />
+<path d="M670.5,416l0.7,0l0,-49.7l-0.7,0l0,49.7Z" class="g2_742" />
+<path d="M850.8,415.2l0.7,0l0,-48.2l-0.7,0l0,48.2Z" class="g2_742" />
+<path d="M69.7,367l781.8,0l0,-0.7l-781.8,0l0,0.7Z" class="g2_742" />
+<path d="M69.7,391.5l781.8,0l0,-0.7l-781.8,0l0,0.7Z" class="g2_742" />
+<path d="M69.7,416l781.8,0l0,-0.7l-781.8,0l0,0.7Z" class="g2_742" />
+</svg>
